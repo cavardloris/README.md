@@ -40,4 +40,4 @@ Voici les technologies que j'ai étudié pour le moment.
 
 <br>
 ---
-<p align="center">Construit avec ❤️ et du code.</p>
+
