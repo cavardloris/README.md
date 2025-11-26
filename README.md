@@ -21,6 +21,11 @@ Voici les technologies que j'ai étudié pour le moment.
 **Bases de données :** `phpMyAdmin`, `SQL`  
 
 <img src="assets/python.png" alt="Logo Python" width="100">
+<img src="assets/c.png" alt="Logo C" width="100">
+<img src="assets/html.png" alt="Logo HTML" width="100">
+<img src="assets/css.png" alt="Logo CSS" width="100">
+<img src="assets/php.png" alt="Logo PHP" width="100">
+<img src="assets/SQL.png" alt="Logo SQL" width="100">
 
 ### 📊 Statistiques GitHub (Optionnel)
 
