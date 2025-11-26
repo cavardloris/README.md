@@ -38,6 +38,5 @@ Voici les technologies que j'ai étudié pour le moment.
 | **LinkedIn** | www.linkedin.com/in/loris-cavard |
 | **Portfolio/Site Web** | https://cavardloris.github.io/portfolio-loris-cavard/ |
 
-<br>
----
+
 
