@@ -30,8 +30,12 @@ Voici les technologies que j'ai étudié pour le moment.
 <img src="assets/phpmyadmin.png" alt="Logo SQL" width="100">
 </div>
 
-### 📊 Statistiques GitHub (Optionnel)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavardloris&layout=compact&theme=dark)](https://github.com/cavardloris/github-readme-stats)
+### 📊 Statistiques GitHub 
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavardloris&layout=compact&theme=dark)](https://github.com/cavardloris/github-readme-stats)
+
+  </div>
 
 ### 📧 Connectons-nous !
 
