@@ -1,7 +1,7 @@
 # README.md
 
 
-# Enchanté 👋, je suis Loris !
+# Enchanté 👋 je suis Loris !
 
 ### 👨‍💻 À Propos de Moi
 
@@ -30,18 +30,12 @@ Voici les technologies que j'ai étudié pour le moment.
 <img src="assets/phpmyadmin.png" alt="Logo SQL" width="100">
 </div>
 
-### 📊 Statistiques GitHub 
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavardloris&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
 
 ### 📧 Connectons-nous !
 
 | Plateforme | Lien |
 | :--- | :--- |
-| **LinkedIn** | [Lien vers votre profil LinkedIn] |
+| **LinkedIn** | www.linkedin.com/in/loris-cavard |
 | **Portfolio/Site Web** | [Lien vers votre site personnel] |
 
 <br>
