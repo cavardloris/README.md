@@ -20,7 +20,7 @@ Voici les technologies que j'ai étudié pour le moment.
 **Backend :** `PHP`  
 **Bases de données :** `phpMyAdmin`, `SQL`  
 
-![Description de l'image](assets/python.png)
+<img src="assets/python.png" alt="Logo Python" width="100">
 
 ### 📊 Statistiques GitHub (Optionnel)
 
