@@ -31,9 +31,7 @@ Voici les technologies que j'ai étudié pour le moment.
 </div>
 
 ### 📊 Statistiques GitHub (Optionnel)
-
-Vous pouvez ajouter des badges ou des widgets pour montrer vos statistiques :
-[![Votre Statut GitHub](https://github-readme-stats.vercel.app/api?username=cavardloris&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavardloris&layout=compact&theme=dark)](https://github.com/cavardloris/github-readme-stats)
 
 ### 📧 Connectons-nous !
 
