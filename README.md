@@ -20,6 +20,7 @@ Voici les technologies que j'ai étudié pour le moment.
 **Backend :** `PHP`  
 **Bases de données :** `phpMyAdmin`, `SQL`  
 
+<div align="left">
 <img src="assets/python.png" alt="Logo Python" width="100">
 <img src="assets/c.png" alt="Logo C" width="100">
 <img src="assets/html.png" alt="Logo HTML" width="100">
@@ -27,7 +28,7 @@ Voici les technologies que j'ai étudié pour le moment.
 <img src="assets/PHP.png" alt="Logo PHP" width="100">
 <img src="assets/SQL.png" alt="Logo SQL" width="100">
 <img src="assets/phpmyadmin.png" alt="Logo SQL" width="100">
-
+</div>
 
 ### 📊 Statistiques GitHub (Optionnel)
 
