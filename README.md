@@ -15,7 +15,7 @@ Je m'appelle Loris Cavard, j'ai 18 ans et je suis actuellement en première ann�
 
 Voici les technologies que j'ai étudié pour le moment. 
 
-**Langages :** `Python`, `C`
+**Langages :** `Python`, `C`  
 **Frontend :** `HTML`, `CSS`
 **Backend :** `PHP`
 **Bases de données :** `phpMyAdmin`, `SQL`
